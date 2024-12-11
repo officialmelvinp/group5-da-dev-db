@@ -1,0 +1,7 @@
+[
+    {"model": "imf_data.country", "pk": 1, "fields": {"country": "Germany"}},
+    {"model": "imf_data.country", "pk": 2, "fields": {"country": "Switzerland"}},
+    {"model": "imf_data.country", "pk": 3, "fields": {"country": "Luxembourg"}},
+    {"model": "imf_data.country", "pk": 4, "fields": {"country": "Austria"}},
+    {"model": "imf_data.country", "pk": 5, "fields": {"country": "Spain"}}
+  ]

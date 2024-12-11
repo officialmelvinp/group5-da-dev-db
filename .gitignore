@@ -134,6 +134,11 @@ venv.bak/
 .spyderproject
 .spyproject
 
+*.pyc
+__pycache__
+db.sqlite3
+.env
+
 # Rope project settings
 .ropeproject
 
